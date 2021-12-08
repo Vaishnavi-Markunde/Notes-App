@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "670431699218",
+    "databaseURL" : "https://notes-42320-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "notes-42320",
+    "storage_bucket": "notes-42320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670431699218:android:e889cc9cb90dfed632d3cb",
+        "android_client_info": {
+          "package_name": "com.example.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670431699218-t89lj31843cv68jn6knpp44vajhosqhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzUhDGHd1jrtK3ZvEIwbqe3-kgPyUGKgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670431699218-t89lj31843cv68jn6knpp44vajhosqhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
